@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Service1</name>
+    </assembly>
+    <members>
+        <member name="T:Service1.Controllers.ValuesController">
+            <summary>
+            测试 Control
+            </summary>
+        </member>
+        <member name="M:Service1.Controllers.ValuesController.Get">
+            <summary>
+            获取Service1 检查结果
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
